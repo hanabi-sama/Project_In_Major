@@ -4,6 +4,8 @@
 - MTCNN.
 - Facenet.
 - Some useful different technique.... 
-3. Reference :
+4. Language using in this project:
+- Python
+6. Reference :
 - https://github.com/thangnch/MiAI_FaceRecog_2 .
 - https://github.com/thangnch/face_anti_spoofing .
