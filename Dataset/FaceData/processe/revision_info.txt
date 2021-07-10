@@ -1,0 +1,7 @@
+arguments: align_dataset_mtcnn.py --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25 C:\Users\Admin\Desktop\MiAI_FaceRecog_2-master\Dataset\FaceData\raw C:\Users\Admin\Desktop\MiAI_FaceRecog_2-master\Dataset\FaceData\processe
+--------------------
+tensorflow version: 2.5.0-dev20210326
+--------------------
+git hash: git rev-parse HEAD: The system cannot find the file specified
+--------------------
+git diff HEAD: The system cannot find the file specified
